@@ -1,13 +1,9 @@
-# ReactThreeFiber + TypeScript + Vite
+# 中心にものが集まる表現
 
-## インストール(Install)
-```
-git clone https://github.com/foasho/r3f-ts-vite-starter.git
-```
+![Image](https://storage.googleapis.com/zenn-user-upload/50e7c72a51f2-20231010.gif)
 
 ## 起動方法(Usage)
 ```
-cd r3f-ts-vite-starter
 pnpm install
 pnpm run dev
 ```
